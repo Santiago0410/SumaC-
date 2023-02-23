@@ -1,0 +1,10 @@
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\bin\Debug\SumaGit.exe.config
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\bin\Debug\SumaGit.exe
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\bin\Debug\SumaGit.pdb
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.csproj.AssemblyReference.cache
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.Form1.resources
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.Properties.Resources.resources
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.csproj.GenerateResource.cache
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.csproj.CoreCompileInputs.cache
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.exe
+C:\Users\jahir.camacho\source\repos\SumaGit\SumaGit\obj\Debug\SumaGit.pdb
